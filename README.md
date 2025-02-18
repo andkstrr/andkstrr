@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 I'am student at Wikrama vocational High School.<br>🌱 I'm currently learning React.js<br>🎯 Goals: Software Engineer.</p>
+<p align="left">📚 I'am student at Wikrama vocational High School.<br>🌱 I'm currently learning React.js & React Native<br>🎯 Goals: Software Engineer.</p>
 
 ###
 
