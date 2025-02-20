@@ -1,93 +1,40 @@
-<!-- ## Hi there 👋
-
-
-**Nurrizzky/Nurrizzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hello There 👋 I'm Junior Front End Developer</h1>
-
-###
-
-<p align="left">💬 My name is Andika Satrio Nurcahyo, <br>I am a student who focuses on Front End Development, I have an interest in programming and enthusiastic about the development of new technologies in the field of software development.</p>
-
-###
-
-<h2 align="left">🚀 About me</h2>
-
-###
-
-<p align="left">📚 I'am student at Wikrama vocational High School.<br>🌱 I'm currently learning React.js & React Native<br>🎯 Goals: Software Engineer.</p>
-
-###
-
-<h2 align="left">🌐 Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/andkstrr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/andkstrr_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">💻 Tech Stack</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andkstrr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="160" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andkstrr&radius=4&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="280" alt="activity-graph graph"  />
-</div>
-
-###
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I'm Cayoo</h2><p></p>
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
+<p>💡 &nbsp;I like to explore new technologies<br>
+🎓 &nbsp;I’m currently studying Software & Game Development at Wikrama Vocational High School.<br>
+🌱 &nbsp;I’m on track for learning more about Front End Development and Mobile App Development.<br>
+✍️ &nbsp;In my free time, I usually learn about the fields of UI and UX design<br>
+<!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br> -->
+<!-- ✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br> -->
+<!-- 📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p> -->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
+<p>
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap"><br>
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;<br>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
+<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
+</p>
+<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/andkstrr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+</a>
+</p>
+<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+<p align="center">
+<a href="https://www.andkstrr.my.id"><img src="https://img.shields.io/badge/-andkstrr.my.id-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
+<a href="https://linkedin.com/in/andkstrr"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
+<a href="https://linkedin.com/in/andkstrr"><img src="https://img.shields.io/badge/-Andika%20Satrio-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
+<a href="mailto:andikasatrionurcahyo@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
+<a href="https://instagram.com/andkstrr_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
+<a href="https://facebook.com/andikasatrionurcahyo"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
+</p>
+<hr>
