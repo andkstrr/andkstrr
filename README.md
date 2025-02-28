@@ -13,11 +13,14 @@
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap"><br>
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&amp;logo=PHP" alt="PHP">&nbsp;
+<img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&amp;logo=laravel" alt="Laravel"><br>
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;<br>
+<img src="https://img.shields.io/badge/-Figma-05122A?style=flat&amp;logo=figma&amp;logoColor=007ACC" alt="Figma">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
 </p>
